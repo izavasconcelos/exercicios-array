@@ -1,14 +1,20 @@
 
 var array1=[6,3];
 var array2=[2,3,1,1,2]
-//cresce(array1);
-//cresce2(array2);
-//question();
-//question2();
-//indices([1,2,1,3,2,1,3,1], 1);
-//fibonacci();
+
+/*     ---------------- TESTES  ------------------------   */
+    //cresce(array1);
+    //cresce2(array2);
+    //question();
+    //question2();
+    //indices([1,2,1,3,2,1,3,1], 1);
+    //fibonacci();
 fatorial();
-/*
+
+
+/*********** LISTA DE EXERCICIOS **************
+ * 
+ * 
 01. Crie uma função que recebe um array de 2 números e coloque eles em ordem crescente. Não use o método sort.
 */ 
 function cresce(array) {
